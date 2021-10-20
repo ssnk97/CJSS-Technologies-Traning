@@ -51,6 +51,12 @@ public class EmployeeController {
     List<EmployeeModel> salaryGreaterThan(@RequestParam Integer salary){
         return employeeService.salaryGreaterThan(salary);
     }
+
+    @GetMapping("/experiencegreaterthan")
+    List<EmployeeModel> experienceGreaterThan(@RequestParam Integer experience){
+        System.out.println("HI");
+        return employeeService.experienceGreaterThan(experience);
+    }
 }
 
 

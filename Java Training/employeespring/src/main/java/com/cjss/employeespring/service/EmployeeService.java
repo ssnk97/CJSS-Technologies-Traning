@@ -54,5 +54,12 @@ public class EmployeeService {
         return emp;
     }
 
+    public List<EmployeeModel> experienceGreaterThan(Integer experience){
+        System.out.println(experience);
+        List<EmployeeModel> emp = employees.stream().filter(x-> x.getExperience()>=experience).collect(Collectors.toList());
+        System.out.println(emp);
+        return emp;
+    }
+
 
 }
