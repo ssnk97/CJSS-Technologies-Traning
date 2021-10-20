@@ -1,6 +1,6 @@
 package com.cjss.employeespring.model;
 
-public class EmployeeModel {
+public class EmployeeModel  implements Comparable<EmployeeModel>{
     private Integer id;
     private String empName;
     private Double salary;
@@ -54,5 +54,10 @@ public class EmployeeModel {
 
     public void setPhone(Integer phone) {
         this.phone = phone;
+    }
+
+    @Override
+    public int compareTo(EmployeeModel o) {
+        return this.salary.compareTo(o.salary);
     }
 }

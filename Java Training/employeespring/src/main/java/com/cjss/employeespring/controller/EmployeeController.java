@@ -38,6 +38,20 @@ public class EmployeeController {
         //System.out.println("patch1");
         return employeeService.update(id, phone);
     }
+
+    @GetMapping("/orderbysalary")
+    List<EmployeeModel> orderBySalary(){
+        return employeeService.orderBySalary();
+    }
+   /* @GetMapping("/orderbyexperience")
+    List<EmployeeModel> orderByExperience(){
+        return employeeService.orderByExperience();
+    }*/
+
+    @GetMapping("/salarygreaterthan")
+    List<EmployeeModel> salaryGreaterThan(@RequestParam Integer salary){
+        return employeeService.salaryGreaterThan(salary);
+    }
 }
 
 
