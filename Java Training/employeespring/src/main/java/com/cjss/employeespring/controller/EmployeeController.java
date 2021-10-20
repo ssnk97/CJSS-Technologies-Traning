@@ -47,7 +47,6 @@ public class EmployeeController {
     List<EmployeeModel> orderByExperience(){
         return employeeService.orderByExperience();
     }*/
-
     @GetMapping("/salarygreaterthan")
     List<EmployeeModel> salaryGreaterThan(@RequestParam Integer salary){
         return employeeService.salaryGreaterThan(salary);

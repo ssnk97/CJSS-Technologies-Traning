@@ -49,7 +49,6 @@ public class EmployeeService {
         Collections.sort(employees);
         return employees;
     }*/
-
     public List<EmployeeModel> salaryGreaterThan(Integer salary){
         List<EmployeeModel> emp = employees.stream().filter(x-> x.getSalary()>=salary).collect(Collectors.toList());
         return emp;

@@ -56,6 +56,7 @@ public class EmployeeModel  implements Comparable<EmployeeModel>{
         this.phone = phone;
     }
 
+
     @Override
     public int compareTo(EmployeeModel o) {
         return this.salary.compareTo(o.salary);
