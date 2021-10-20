@@ -3,13 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="8872dade-c64c-47f9-9dd3-e2ee148a2f8e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/controller/EmployeeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/model/EmployeeModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/model/EmployeeModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/service/EmployeeService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/model/EmployeeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/model/EmployeeModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/EmployeespringApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/model/EmployeeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/classes/java/main/com/cjss/employeespring/service/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/EmployeespringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/model/EmployeeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/java/com/cjss/employeespring/service/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Training/employeespring/src/test/java/com/cjss/employeespring/EmployeespringApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
