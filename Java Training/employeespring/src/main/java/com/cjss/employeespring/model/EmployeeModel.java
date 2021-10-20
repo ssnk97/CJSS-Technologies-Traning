@@ -6,6 +6,7 @@ public class EmployeeModel {
     private Double salary;
     private String department;
     private Integer experience;
+    private Integer phone;
 
     public Integer getId() {
         return id;
@@ -45,5 +46,13 @@ public class EmployeeModel {
 
     public void setExperience(Integer experience) {
         this.experience = experience;
+    }
+
+    public Integer getPhone() {
+        return phone;
+    }
+
+    public void setPhone(Integer phone) {
+        this.phone = phone;
     }
 }

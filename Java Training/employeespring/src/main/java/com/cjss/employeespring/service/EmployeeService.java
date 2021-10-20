@@ -31,7 +31,12 @@ public class EmployeeService {
         optional.ifPresent(employeeModel -> employees.remove(employeeModel));
         return optional.get();
     }
-
+    public EmployeeModel update(Integer id, Integer phone){
+       // System.out.println("patch2");
+        Optional <EmployeeModel> emp = employees.stream().filter(x-> x.getId()==id).findFirst();
+        emp.get().setPhone(phone);
+        return emp.get();
+    }
 
 
 

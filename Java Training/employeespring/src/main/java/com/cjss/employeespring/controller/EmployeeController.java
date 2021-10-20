@@ -32,6 +32,12 @@ public class EmployeeController {
     EmployeeModel delete(@RequestHeader Integer data){
         return employeeService.delete(data);
     }
+
+    @PatchMapping("/patch")
+    EmployeeModel update(@RequestParam Integer id, @RequestParam Integer phone) {
+        //System.out.println("patch1");
+        return employeeService.update(id, phone);
+    }
 }
 
 
